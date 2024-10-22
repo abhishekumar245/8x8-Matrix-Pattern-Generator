@@ -31,4 +31,4 @@ pythonw.exe 8x8MatrixPatternGenerator.py
 ```
 
 # Executables
-- Download the EXE file from [here](url) to run standalone software.
+- Download the EXE file from [here](https://github.com/abhishekumar245/8x8-Matrix-Pattern-Generator/releases/download/v1.0.0/8x8MatrixPatternGenerator.exe) to run standalone software.
